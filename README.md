@@ -7,17 +7,19 @@ This project involves cleaning and preprocessing a medical appointment dataset t
 
 ## 📁 Folder Structure
 
-TASK-1-DATA-CLEANING/
-├── rawdata/
-│   └── KaggleV2-May-2016.csv
-├── cleaned_dataset.csv               ← Generate this in notebook
-├── data_cleaning.ipynb               ← Main code notebook
-├── README.md                         ← Short explanation of your work
-└── screenshots/
-    ├── before_head.png
-    ├── before_info.png
-    ├── after_head.png
-    └── after_info.png
+TASK-1-DATA-CLEANING/<br>
+├── rawdata/<br>
+│   └── KaggleV2-May-2016.csv<br>
+├── cleaned_dataset.csv               <----Generate this in notebook<br>
+├── data_cleaning.ipynb               <----Main code notebook<br>
+├── README.md                         <----Short explanation of your work<br>
+└── screenshots/<br>
+    ├── before_head.png<br>
+    ├── before_info.png<br>
+    ├── before_graph.png<br>
+    ├── after_head.png<br>
+    ├── after_info.png<br>
+    └── after_graph.png<br>
 
 
 ---
